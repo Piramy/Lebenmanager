@@ -1,16 +1,16 @@
 <resources>
     <string name="app_name">Lebensmanager</string>
 
-    <!---Agregar Notas-->
     <string name="TareaHacer">Hacer</string>
+    <string name="TareaProgramar">Programar</string>
+    <string name="TareaDelegar">Delegar</string>
+    <string name="TareaEliminar">Eliminar</string>
+
     <string name="Titulo">Titulo</string>
     <string name="Descripcion">Descripcion</string>
     <string name="Btn_Calendario">Calendario</string>
     <string name="Fecha">00/00/0000</string>
     <string name="Estado">No finalizado</string>
-
-
-
 
     <string name="save">Guardar</string>
     <string name="new_task">Nueva tarea</string>

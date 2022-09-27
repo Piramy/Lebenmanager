@@ -12,4 +12,10 @@
     <color name="colorPrimaryDark">#b8cc00</color>
     <color name="colorPrimaryLight">#ffff78</color>
     <color name="colorAccent">#000000</color>
+
+
+    <color name="azul">#64b5f6</color>
+    <color name="verde">#66bb6a</color>
+    <color name="naranjo">#ffa726</color>
+    <color name="rojo">#ef5350</color>
 </resources>
