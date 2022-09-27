@@ -9,4 +9,10 @@
     <string name="Fecha">00/00/0000</string>
     <string name="Estado">No finalizado</string>
 
+
+
+
+    <string name="save">Guardar</string>
+    <string name="new_task">Nueva tarea</string>
+    <string name="tasks">Tarea</string>
 </resources>
