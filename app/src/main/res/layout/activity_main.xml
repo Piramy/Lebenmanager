@@ -21,18 +21,17 @@
             app:fabCradleRoundedCornerRadius="30dp" />
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/fabBottomBar"
+            android:id="@+id/fab"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/colorPrimary"
-            android:onClick="ClickTareas"
             app:backgroundTint="@color/colorPrimaryLight"
             app:layout_anchor="@id/bottomBar"
             app:srcCompat="@drawable/ic_baseline_add_24" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="460dp">
 
             <TableRow
                 android:layout_width="wrap_content"
@@ -48,7 +47,7 @@
                     android:id="@+id/buttonHacer"
                     android:layout_width="180dp"
                     android:layout_height="220dp"
-                    android:onClick="ClickTareas"
+                    android:onClick="ClickHacer"
                     android:text="Hacer"
                     app:backgroundTint="@color/azul" />
 
@@ -61,6 +60,7 @@
                     android:id="@+id/buttonProgramar"
                     android:layout_width="wrap_content"
                     android:layout_height="220dp"
+                    android:onClick="ClickProgramar"
                     android:text="Programar"
                     app:backgroundTint="@color/verde" />
             </TableRow>
@@ -80,6 +80,7 @@
                     android:id="@+id/buttonDelegar"
                     android:layout_width="180dp"
                     android:layout_height="220dp"
+                    android:onClick="ClickDelegar"
                     android:text="Delegar"
                     app:backgroundTint="@color/naranjo" />
 
@@ -92,6 +93,7 @@
                     android:id="@+id/buttonEliminar"
                     android:layout_width="180dp"
                     android:layout_height="220dp"
+                    android:onClick="ClickEliminar"
                     android:text="Eliminar"
                     app:backgroundTint="@color/rojo" />
             </TableRow>

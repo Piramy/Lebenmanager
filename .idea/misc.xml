@@ -7,12 +7,13 @@
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/drawable/ic_add.xml" value="0.149" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.149" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/drawable/ic_baseline_edit.xml" value="0.1375" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.146" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.149" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout-land/activity_main.xml" value="0.2984375" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/activity_agregar_nota.xml" value="0.25" />
-        <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/activity_main2.xml" value="0.25" />
-        <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/activity_main_nota.xml" value="0.4" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/activity_main_nota.xml" value="0.264" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/activity_pantalla_de_carga.xml" value="0.25" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/new_task.xml" value="0.25" />
         <entry key="..\:/android-sdk/AndroidStudioProjects/ProyectoNotas/app/src/main/res/layout/task_layout.xml" value="0.264" />

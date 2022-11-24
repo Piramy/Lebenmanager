@@ -12,8 +12,8 @@
         android:gravity="center"
         android:layout_marginTop="18dp"
         android:layout_marginBottom="16dp"
-        android:text="@string/TareaHacer"
-        android:textColor="@color/azul"
+        android:text="Tareas"
+        android:textColor="@color/colorSecond"
         android:textSize="32sp"
         android:textStyle="bold" />
 

@@ -1,6 +1,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:padding="16dp">
 
     <EditText
@@ -22,5 +23,13 @@
         android:text="@string/save"
         android:textAllCaps="false"
         android:textColor="@android:color/darker_gray" />
+
+    <Button
+        android:id="@+id/TimeTask"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/newTaskText"
+        android:background="@android:color/transparent"
+        app:srcCompat="@drawable/ic_baseline_timer_24" />
 
 </RelativeLayout>

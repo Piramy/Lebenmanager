@@ -18,9 +18,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:buttonTint="@color/azul"
+            android:buttonTint="@color/colorSecond"
             android:paddingStart="8dp"
-            tools:text="Terminar el PPT de Programación Android" />
+            tools:text="Texto de prueba" />
 
     </RelativeLayout>
 

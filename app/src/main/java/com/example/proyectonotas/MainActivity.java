@@ -14,7 +14,22 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void ClickTareas(View view) {
+    public void ClickHacer(View view) {
+        Intent i = new Intent(this, MainNota.class);
+        startActivity(i);
+    }
+
+    public void ClickProgramar(View view) {
+        Intent i = new Intent(this, MainNota.class);
+        startActivity(i);
+    }
+
+    public void ClickDelegar(View view) {
+        Intent i = new Intent(this, MainNota.class);
+        startActivity(i);
+    }
+
+    public void ClickEliminar(View view) {
         Intent i = new Intent(this, MainNota.class);
         startActivity(i);
     }
